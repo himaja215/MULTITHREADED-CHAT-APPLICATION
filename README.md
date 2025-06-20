@@ -29,6 +29,11 @@ The client handles exceptions gracefully, displaying error messages if the serve
 
 *OUTPUT* :
 
+![Image](https://github.com/user-attachments/assets/defe871c-34fb-4480-af65-ad8c72ed3705)
+
+
+![Image](https://github.com/user-attachments/assets/cb9dd2df-307a-43fc-a9b9-156870ade05d)
+
 
 
 
